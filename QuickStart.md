@@ -1,0 +1,1 @@
+Go to [ProfileMe](https://www.profileme.dev/create-profile) to update the profile.
