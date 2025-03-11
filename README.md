@@ -7,11 +7,11 @@ Frontend Developer
 I graduated with a degree in Psychology, but my passion for coding led me down the path of front-end development. Before diving into tech, I worked as an Executive Secretary at an education-focused NGO, where I honed my skills in organization and problem-solving. Now, I specialize in Vue.js and TypeScript, building products from scratch and upgrading existing systems. I’m also experienced in front-end testing, Docker deployment, and setting up CI/CD pipelines to automate everything.
 
 * 🌍  I'm based in Taipei, Taiwan
-* 🌐  [My Blog](https://www.hychang.me/)
+* 🖋️  [My Blog](https://www.hychang.me/)
 * ✉️  You can contact me at [wendyhsinyun@gmail.com](mailto:wendyhsinyun@gmail.com)
 * 🚀  I'm currently working on [i18n-sheet-sync](http://github.com/WendyHsinYun/i18nSheetSync)
 * 🧠  I'm learning n8n
-* ⚡  I go boxing 2 to 3 times a week
+* 🥊  I go boxing 2 to 3 times a week
 
 ### Skills
 
