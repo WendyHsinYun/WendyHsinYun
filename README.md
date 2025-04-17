@@ -9,8 +9,6 @@ I graduated with a degree in Psychology, but my passion for coding led me down t
 * 🌍  I'm based in Taipei, Taiwan
 * 🖋️  [My Blog](https://www.hychang.me/)
 * ✉️  You can contact me at [wendyhsinyun@gmail.com](mailto:wendyhsinyun@gmail.com)
-* 🚀  I'm currently working on [i18n-sheet-sync](http://github.com/WendyHsinYun/i18nSheetSync)
-* 🧠  I'm learning n8n
 * 🥊  I go boxing 2 to 3 times a week
 
 ### Skills
