@@ -2,9 +2,11 @@ Hi, I’m HY.
 ======================================================================================================================================
 
 I build things with code... until AI taps me on the shoulder.
+
 Still here (for now), still pushing commits.
 
-<img src="[https://your-image-url.com/image.jpg](https://your-image-url.com/image.jpg](https://github.com/user-attachments/assets/b3dcd6c2-af66-49f8-8a40-4de53260d5c5)" width="300" />
+<img src="https://github.com/user-attachments/assets/b3dcd6c2-af66-49f8-8a40-4de53260d5c5" width="600" />
+
 
 Frontend Developer
 ------------------
